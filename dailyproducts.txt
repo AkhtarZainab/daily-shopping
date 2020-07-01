@@ -1,1 +1,2 @@
 This is for shopping of items containing daily items
+This is changed for commit
